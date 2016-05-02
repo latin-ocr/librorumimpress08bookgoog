@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./librorumimpress08bookgoog_0009.png"; bbox 0 0 2646 4830; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 240 390 1317 550">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 240 390 1317 550">
+     <span class='ocr_line' id='line_1_1' title="bbox 240 390 1317 550; baseline -0.008 -14"><span class='ocrx_word' id='word_1_1' title='bbox 240 456 539 537; x_wconf 78' lang='lat' dir='ltr'>LIBRORUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 562 452 1004 550; x_wconf 67' lang='grc' dir='ltr'><strong>ιΜΡκΕεεοκυΜ,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1129 390 1133 395; x_wconf 55' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1311 510 1317 527; x_wconf 94' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 899 848 1180 935">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 899 848 1180 935">
+     <span class='ocr_line' id='line_1_2' title="bbox 899 848 1180 935; baseline -0.025 -2"><span class='ocrx_word' id='word_1_5' title='bbox 899 848 986 933; x_wconf 46' lang='lat'><strong>54</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1042 862 1180 935; x_wconf 58' lang='grc' dir='ltr'><strong>--’·-ε,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 177 1532 1183 1652">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 177 1532 1183 1652">
+     <span class='ocr_line' id='line_1_3' title="bbox 177 1532 1183 1652; baseline 0.007 -29"><span class='ocrx_word' id='word_1_7' title='bbox 177 1532 462 1629; x_wconf 71' lang='lat' dir='ltr'>Mvsno</span> <span class='ocrx_word' id='word_1_8' title='bbox 509 1533 1057 1630; x_wconf 80' lang='lat' dir='ltr'><strong>BRITANNICO</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1171 1623 1183 1652; x_wconf 74' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 518 3955 878 4070">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 518 3955 878 4070">
+     <span class='ocr_line' id='line_1_4' title="bbox 518 3955 878 4070; baseline -0.014 -25"><span class='ocrx_word' id='word_1_10' title='bbox 518 3955 711 4045; x_wconf 65' lang='lat' dir='ltr'><strong>munim.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 872 4063 878 4070; x_wconf 13' lang='grc' dir='ltr'><em>Δ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 499 4220 737 4281">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 499 4220 737 4281">
+     <span class='ocr_line' id='line_1_5' title="bbox 499 4220 737 4281; baseline -0.013 -1"><span class='ocrx_word' id='word_1_12' title='bbox 499 4220 737 4281; x_wconf 77' lang='lat' dir='ltr'><strong>Mncccxv.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1328 4830">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1328 4830">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1328 4830; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1328 4830; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
